@@ -1,0 +1,87 @@
+# Curso Python #09 - Manipulando Texto
+
+frase = 'Curso em Vídeo Python'
+
+
+Femrk
+1 ano atrás
+05:10 - Fatiamento de String;
+13:50 - Análise:
+    14:15 - len();
+    14:50 - count();
+    16:35 - find();
+    18:55 - in;
+19:35 - Transformação:
+    19:55 - replace();
+    20:50 - upper();
+    21:50 - lower();
+    22:25 - capitalize();
+    23:04 - title();
+    24:34 - strip();
+    25:08 - rtrip();
+    25:50 - lstrip();
+26:35 - Divisão:
+    26:50 - split();
+28:20 - Junção:
+    28:35 - join();
+
+----------------- ----------------- ----------------- ----------------- ----------------- ----------------- ------------
+- Manipulando textos:
+Os textos ocupam um espaço de micro-memória no PC sendo contados do 0, uma frase normal está na mesma ''família'' de micro-memórias
+*Para fatiar uma frase e escolher uma letra se usa frase[3] por exemplo.
+*Para mostrar a frase do início ao 3 caractere por exemplo, usa-se print(frase[:3]), lembrando que o primeiro caractere sempre é o 0
+*Para mostrar do 3 caractere ao final usa-se print(frase[3:])
+*O comando [::2] por exemplo, vai mostrar do início ao final pulando de 2 em 2
+*O comando [3::2] por exemplo, serve para o pyton escrever do 3 ao final pulando de 2 em 2, mostrando o 2 (Tipo: ABCDEFGHI ficaria DFH)
+*O comando len(frase) serve para indicar a quantidade de caracteres na frase já atribuida por um input, por exemplo
+*O comando frase.count('o') por exemplo, serve para o python contar quantas vezez o ''o'' apareceu na frase
+*No fatiamento o último valor sempre é ignorado pelo python.
+*O comando frase.find('deo') serve para indicar onde começou o deo na frase ''curso em video'' por exemplo, sendo igual a 11
+*Quando mandamos o python procurar algo que não existe na frase ele te da como resultado -1, indicando que aquilo não está na frase. Exemplo: print(frase.find('cagão') da frase cherapeido não existe, logo, ele vai ter como resultado -1
+*O operador in serve para indicar se existe aquela parte já associada na frase também já associada. Ex: print(parte in frase)
+*O comando frase.replace('python , 'android') por exemplo, serve para substituir o python da frase já associada por android. Ex: print(frase.replace('python, 'android') da frase já associada: curso em vídeo python
+*O comando frase.upper() serve para deixar todas as letras da frase, já associada, mas, letras já em maiúsculas continuam em maiúsculas
+*O comando frase.lower() deixa as letras maiúsculas em minúsculas, minúsculas permanecem em minúsculas
+*A função frase.capitalize() serve para deixar todos os caracteres da frase já associada para minúsculo e deixar somente a primeira letra em maiúsculo
+*O comando frase.title() serve para deixar as letras após espaços em maiúsculas
+*A função frase.strip() remove todos os espaços inúteis, os entre palavras e letras continuam.
+*A função frase.rstrip() retira os espaços da direta, final do texto
+*A função frase.lstrip() retira os espaços da esquerda, início do texto
+*A função frase.split() serve para separar as palavras em diferentes famílias de micro-memórias
+*A função '-'.join(frase) por exemplo, serve para juntar famílias de micro-memórias com o que esta entre as aspas
+*A função print com """ serve para o python escrever do mesmo modo que foi escrito, com quebras de linhas, bom para textos grandes.
+*Quando usamos o comando frase.split() associado a dividido por exemplo, em uma frase já associada, o comando print(dividido[0]) mostrará a primeira família de micro-memórias, 1 a segunda, 2 a terceira e assim em diante
+
+----------------- ----------------- ----------------- ----------------- ----------------- ----------------- ------------
+
+Manipulando Texto
+
+Em uma cadeia de texto é separado por pequenos micro espaços de memória, e eles são contados o seu comprimento do total de caractere do 0, até o final
+
+FATIAMENTO
+
+0:0:0: No primeiro 0 fica a seleção inicial, no segundo é até onde ele vai selecionar e no final ele vai retirar -1, o último sempre é excluído, e o terceiro é de quantas vezes ele vai pular cada caractere
+
+ANÁLISE
+
+frase.LEN() É o comprimento, irá exibir quantos caracteres há em uma caixa de texto selecionada
+frase.COUNT('0',0,14) Irá exibir na tela quantas vezes ele achou o caractere '0', do 0 até o 14, o último será excluído
+frase.FIND('Python') Irá dizer em que momento começou tal palavra ou caractere mencionado se não existir, retorna o valor (-1) inexistente
+Python IN frase Irá verificar se existe a palavra mencionada na caixa de texto, se sim, retornará True, se não, retornará False
+
+TRANSFORMAÇÃO
+
+frase.REPLACE('Python', 'Android') Ele vai procurar pela palavra mencionada, e vai substituir por outra
+frase.UPPER() Transformar a Caixa de texto em letras maiúscula
+frase.LOWER() Transformar a Caixa de texto e minúsculo
+frase.CAPITALIZE() Apenas a primeira letra do inicio da frase em maiúsculo
+frase.TITLE() Ele vai quebrar a caixa de texto por blocos, e vai usar o Capitalize para deixar cada letra após o espaço, inicio do bloco em maiúsculo
+frase.STRIP() Espaços da direita e da esquerda (começo e final), serão apagados, serão ignorados pelo python usando o método strip
+frase.RSTRIP() Espaços da direita (final), serão apagados, serão ignorados, apenas os espaços da esquerda (começo) será mantido pelo python usando o método rstrip
+frase.LSTRIP() Espaços da esquerda (começo), serão apagados, serão ignorados, apenas os espaços da direita (final) será mantido pelo python usando o método lstrip
+
+DIVISÃO
+frase.SPLIT() Vai criar blocos com a cadeia de caracteres para cada espaço, e vai numerar cada caractere de cada bloco de 0 até o final, assim criando um bloco que contém essa numeração de 0 até o final, para cada split
+
+JUNÇÃO
+'-'.JOIN(frase) Vai pegar o que contém nessa lista ou bloco, e fazer a junção, desmontando os blocos e juntando as palavras
