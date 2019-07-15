@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af281f23-6ba2-4f70-900c-1fae23452bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../pythonexercicios/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula006anots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula07a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula08a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula08a1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula08a2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula09a.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pythonexercicios/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonexercicios/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -27,7 +21,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aula09a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -46,13 +50,17 @@
         <option value="$PROJECT_DIR$/aula06b.py" />
         <option value="$PROJECT_DIR$/aula006anots.txt" />
         <option value="$PROJECT_DIR$/aula07a.py" />
+        <option value="$PROJECT_DIR$/aula08a1.py" />
+        <option value="$PROJECT_DIR$/aula08a.py" />
+        <option value="$PROJECT_DIR$/aula08a2.py" />
+        <option value="$PROJECT_DIR$/aula09a.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="668" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -78,7 +86,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pythonexercicios" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -92,28 +100,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.aula07a">
-    <configuration name="aula06a" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonteste" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula06a.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.aula08a2">
     <configuration name="aula06b" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonteste" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,11 +143,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="aula08a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonteste" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula08a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula08a1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonteste" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula08a1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula08a2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonteste" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula08a2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula08a2" />
+        <item itemvalue="Python.aula08a1" />
+        <item itemvalue="Python.aula08a" />
         <item itemvalue="Python.aula07a" />
         <item itemvalue="Python.aula06b" />
-        <item itemvalue="Python.aula06a" />
       </list>
     </recent_temporary>
   </component>
@@ -178,14 +230,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="735" extended-state="0" />
+    <frame x="762" y="0" width="781" height="534" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.49620637" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21879195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3263158" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -214,20 +267,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aula006anots">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula07a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/aula006anots" />
     <entry file="file://$PROJECT_DIR$/aula006anots.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/emoji/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-2069351040/_random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="22" column="12" lean-forward="true" selection-start-line="21" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="749" column="19" selection-start-line="749" selection-start-column="19" selection-end-line="749" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula08a2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula08a1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula08a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula07a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula09a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
