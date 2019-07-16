@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af281f23-6ba2-4f70-900c-1fae23452bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aula10a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonexercicios/ex45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula12a.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pythonexercicios/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonexercicios/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -14,7 +23,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aula12a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,13 +68,14 @@
         <option value="$PROJECT_DIR$/aula09a.py" />
         <option value="$PROJECT_DIR$/aula10a.py" />
         <option value="$PROJECT_DIR$/aula11.py" />
+        <option value="$PROJECT_DIR$/aula12a.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="937" />
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -101,28 +121,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.aula11">
-    <configuration name="aula08a1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonteste" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula08a1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.aula12a">
     <configuration name="aula08a2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonteste" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,13 +206,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="aula12a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonteste" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula12a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula12a" />
         <item itemvalue="Python.aula11" />
         <item itemvalue="Python.aula10a" />
         <item itemvalue="Python.aula09a" />
         <item itemvalue="Python.aula08a2" />
-        <item itemvalue="Python.aula08a1" />
       </list>
     </recent_temporary>
   </component>
@@ -231,14 +251,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="749" extended-state="1" />
+    <frame x="676" y="0" width="697" height="735" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.21208054" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.3019727" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42352942" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42192692" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -275,18 +296,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/emoji/core.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-765" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-2069351040/_random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="22" column="12" lean-forward="true" selection-start-line="21" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/emoji/core.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-2069351040/_random.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/random.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="77">
@@ -347,6 +358,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula12a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
         </state>
       </provider>
     </entry>
