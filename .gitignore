@@ -1,2 +1,10 @@
 pythonexercicios/.idea
+pythonexercicios/__pycache__
 pythonteste/.idea
+pythonteste/__pycache__
+modulos/.idea
+modulos/__pycache__
+
+
+./__pycache__
+*/__pycache__
